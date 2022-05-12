@@ -2,8 +2,8 @@
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Fundada en 2021, somo un equipo de consultores que nos enfocamos que hacer crecer el negocio de nuestros clientes."
+heroHeading: 'Acerca de nosotros'
+heroSubHeading: "Fundada en 2021, la empresa cuenta con un equipo de consultores que enfocados en hacer crecer el negocio de nuestros clientes."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
