@@ -1,7 +1,7 @@
 name = "Hero"
 license = "MIT"
 licenselink = "https://github.com/zerostaticthemes/hugo-hero-theme/blob/master/LICENSE"
-description = "Hero is a multipurpose theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."
+description = "El proposito de ADN es ayudar a las pequeñas y medianas organizaciones a aprovechar su máximo potencial, brindamos servicios en SQL Server, apoyo DBA part-time y  consultorias en ETL e integraciones."
 
 homepage = "https://github.com/zerostaticthemes/hugo-hero-theme"
 demosite = "https://hugo-hero.netlify.app/"
@@ -10,5 +10,5 @@ tags = ["responsive","minimal","clean","company","portfolio","bootstrap","zerost
 features = ["services","work","fullwidth","hero images"]
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = "Felipe Schneider"
+  homepage = "https://www.linkedin.com/company/adnuy"
