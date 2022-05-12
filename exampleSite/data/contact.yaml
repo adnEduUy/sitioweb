@@ -1,28 +1,28 @@
-email: 'example@example.com'
+email: 'hola@adn.edu.uy'
 phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+businessName: 'ADN Edu UY'
 address: |
-  123 Some Street
-  City, State 12345
+  Constituyente 1700
+  Montevideo, Uruguay
 hours:
-  - day: Monday
+  - day: Lunes
     open: 8:30am
     close: 5:00pm
-  - day: Tuesday
+  - day: Martes
     open: 8:30am
     close: 5:00pm
-  - day: Wednesday
+  - day: Míercoles
     open: 8:30am
     close: 5:00pm
-  - day: Thursday
+  - day: Jueves
     open: 8:30am
     close: 5:00pm
-  - day: Friday
+  - day: Viernes
     open: 8:30am
     close: 5:00pm
-  - day: Saturday
-    open: Closed
+  - day: Sábado
+    open: Cerrado
     close:
-  - day: Sunday
-    open: Closed
+  - day: Domingo
+    open: cerrado
     close:
